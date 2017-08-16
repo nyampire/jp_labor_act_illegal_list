@@ -8,15 +8,15 @@
 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.ja)
 
 # ファイルの解説とディレクトリ構造
-* company_list_yyyymmdd_to_yyyymmdd.tsv:
+## company_list_yyyymmdd_to_yyyymmdd.tsv:
 * TOPに配置されているTSVファイルが、現在作業が完了している最新版です。
 * yyyymmddは、オリジナルのPDF内に示されている、公開対象になっている期間を代入しています。
 * テキストはタブ区切りのTSVファイルになっています。違反法条のカラム内は複数の情報が含まれており、カンマで区切られています。
 
-* 170510-01.pdf:
+## 170510-01.pdf:
 * オリジナルのPDFファイルです。同じディレクトリ内に配置されているTSVはこのファイルから作成されています。
 
-* 00n-yyyymmdd_to_yyyymmddディレクトリ:
+## 00n-yyyymmdd_to_yyyymmddディレクトリ:
 * 過去分のTSVおよびその時点のオリジナルとなったPDFファイルを格納しています。
 
 # どうやって作っているの？
